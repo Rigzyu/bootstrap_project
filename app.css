@@ -1,0 +1,162 @@
+body{
+    width: auto;
+    background-color: white;
+}
+.first{
+    background-image: url(images/dark.jpg);
+    background-size: cover;
+    height: auto;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    font-family: 'Open Sans', sans-serif;
+}
+.second{
+    height: 70vh;
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
+.navbar-toggler{
+    background-color: white;
+    padding: 0px 5px;
+}
+.navbar .nav-link{
+    color: white;
+}
+section .announce-p{
+    background-color: white;
+    color: black;
+    display: inline;
+    padding: 6px 20px 6px 5px;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 15px;
+}
+section .new{
+    color: white;
+    background-color: black;
+    padding: 2px 10px;
+    border-radius: 12px;
+}
+#connect{
+    border-radius: 30em;
+}
+section .account{
+    font-weight: 600;
+    font-size: 3.5em;
+}
+section .neobank{
+    width: 27em;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+}
+section .img-1,.img-2{
+    margin-top: 30px;
+}
+section .img-1{
+    margin-right: 10px;
+    width: 10em;
+    height: 2.6em;
+    padding: 0;
+    border-radius: 8px;
+}
+.trusties-p{
+    font-weight: 600;
+    font-size: small;
+}
+section .img-2{
+    margin-left: 10px;
+    width: 10em;
+    height: 2.6em;
+    border-radius: 8px;
+}
+div .text-center{
+    color: black;
+}
+div .second-h{
+    font-size: 50px;
+    font-weight: 600;
+}
+.second-p{
+    font-size: 18px;
+    padding: 0 40px;
+}
+div .wrap{
+    padding: 10px 50px;
+}
+.attribute-p{
+    font-weight: 200;
+}
+.developers{
+    margin-top: 100px;
+}
+.developers-h4{
+    font-weight: 100;
+    font-size: 20px;
+}
+.developers-h1{
+    color: black;
+}
+.pricing{
+    align-items: center;
+    padding:100px 10px;
+    border-radius: 10px;
+    background-color: black;
+}
+div .people-img{
+    border-radius: 7px;
+}
+.pricing-h3{
+    color: white;
+    font-weight: 600;
+}
+.pricing-p{
+    font-weight: 100;
+}
+.card{
+    width: 40em;
+    padding: 60px 140px 60px 20px;
+    border: none;
+    background-color: rgb(242, 247, 251);
+}
+.feature-h4{
+    color: rgb(109, 106, 106);
+    font-weight: 600;
+}
+.feature{
+    width: 8em;
+}
+div .text-secondary{
+    text-decoration: none;
+}
+div .card-title{
+    font-weight: 600;
+}
+footer{
+    background-color: black;
+    height: 75vh;
+}
+footer .logo-foot{
+    text-decoration: none;
+}
+div .contact{
+    text-decoration: none;
+    margin-top: 20px;
+}
+footer p{
+    font-size: 15px;
+}
+@media (max-width: 1200px) {
+    #connect{
+        display: none;
+    }
+    .second-p{
+        font-size: 18px;
+        padding: 0 10px;
+    }
+}
+

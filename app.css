@@ -190,5 +190,11 @@ footer p{
         width: 4em;
         padding: 5px 0;
     }
+    section .neobank{
+        width: 27em;
+        color: white;
+        font-size: 15px;
+        font-weight: 400;
+    }
 }
 

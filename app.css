@@ -1,5 +1,6 @@
 body{
     background-color: white;
+    width: 100%;
 }
 .first{
     background-image: url(images/dark.jpg);
@@ -180,6 +181,10 @@ footer p{
         color: white;
         font-weight: 600;
         font-size: 15px;
+    }
+    section .account{
+        font-weight: 600;
+        font-size: 2em;
     }
 }
 

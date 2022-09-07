@@ -186,5 +186,9 @@ footer p{
         font-weight: 600;
         font-size: 2em;
     }
+    .feature{
+        width: 4em;
+        padding: 5px 0;
+    }
 }
 
